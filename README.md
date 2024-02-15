@@ -6,6 +6,8 @@ produtos.py: adição e modificação de produtos com atributos nome, preço, qu
 
 em ambos os arquivos, dados são armazenados em json.
 
+monstro.py: lojas e produtos juntos
+
 ## Próximos passos
 
 - Segmentar conteúdo por loja: só aparecer produtos da loja atualmente logada
