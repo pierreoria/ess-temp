@@ -1,6 +1,9 @@
 ## Estado atual:
 
-Cadastro e login muito básico para lojas. Nenhuma autenticação.
+main.py: Cadastro e login muito básico para lojas. Nenhuma autenticação.
+produtos.py: adição e modificação de produtos com atributos nome, preço, quantidade, categoria. Sem integração com classe de loja (pra mostrar inventário segmentado por loja)
+
+em ambos os arquivos, dados são armazenados em json.
 
 ## Próximos passos
 
