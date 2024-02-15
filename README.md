@@ -7,9 +7,9 @@ em ambos os arquivos, dados são armazenados em json.
 
 ## Próximos passos
 
-- Ajeitar classes com os atributos certinhos que vamos usar
-- Adicionar funcionalidade de inventário: criar, deletar, alterar itens
-- Adicionar funcionalidade de acompanhar pedidos: depende da parte de regis para versão final
+- Segmentar conteúdo por loja: só aparecer produtos da loja atualmente logada
+- Adicionar funcionalidade de acompanhar pedidos
+- Assegurar compatibilidade com todas as outras features: padrão de Classe, padrão de json
 - Testes
 
 Provavelmente não precisa de todos os requirements. 
